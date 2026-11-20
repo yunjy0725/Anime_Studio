@@ -120,7 +120,7 @@ def convert_to_anime(image, style):
         with open(temp_path, "rb") as image_file:
 
             response = client.images.edit(
-                model="gpt-image-2.6-flare",
+                model="gpt-image-2.5-flare",
                 image=image_file,
                 prompt=prompt
             )
