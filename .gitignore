@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+.vscode/
+AnimeGANv3/
+AnimeGANv3_Portrait_Inference-main/
+__pycache__/
+.venv/
