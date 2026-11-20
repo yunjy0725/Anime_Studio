@@ -62,24 +62,34 @@ STYLE_PROMPTS = {
 
     
     "픽사풍": """
-    Transform the person into a highly distinctive,
-    stylized 3D animated movie character.
+    Transform the input photo into a beautiful, polished 3D animated feature-film character portrait.
 
-    Emphasize:
-    - Unique and expressive facial proportions.
-    - Slightly exaggerated nose, cheeks and jaw shape.
-    - Richly detailed skin and hair textures.
-    - Sculpted 3D facial features with strong depth.
-    - Warm studio lighting and cinematic rendering.
-    - Playful personality and distinctive character design.
+Preserve the person's identity and recognizable facial features while giving them an appealing, charming, and naturally proportioned 3D animated appearance.
 
-    Avoid the elegant fairytale princess look.
-    Avoid generic Disney-like facial proportions.
+Use:
 
-    Preserve the person's identity, hairstyle,
-    clothing, pose and overall composition.
+Beautifully balanced and natural facial proportions
 
-    Do not copy any existing copyrighted character.
+A softly rounded but refined face
+
+A naturally sized nose that harmonizes with the face
+
+Large, expressive, sparkling eyes
+
+A warm, genuine, attractive smile
+
+Smooth, high-quality 3D skin and hair textures
+
+Soft cinematic lighting and gentle shadows
+
+Rich colors and detailed 3D rendering
+
+The character should look cute, expressive, elegant, and visually appealing.
+
+IMPORTANT:
+Avoid oversized noses, exaggerated facial proportions, overly wide mouths, distorted features, or comical expressions.
+
+Maintain a distinctive 3D animated movie aesthetic rather than a flat 2D illustration or traditional Disney-style portrait.
     """,
 
     "한국 웹툰풍": """
