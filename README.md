@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="anime_studio_result (2)" src="https://github.com/user-attachments/assets/c44c7d33-714c-4651-b2ba-2de6151406e6" />
 # 🎨 Anime Studio
 
 **AI-powered Anime Style Photo Converter**
@@ -27,8 +28,8 @@
 
 부드러운 색감과 자연스러운 얼굴 표현을 중심으로 한 애니메이션 스타일입니다.
 
-**<img width="1672" height="941" alt="anime_studio_result" src="https://github.com/user-attachments/assets/1dd221ea-adce-43e9-b2d9-c651ebf1a552" />
-**
+<img width="1672" height="941" alt="anime_studio_result" src="https://github.com/user-attachments/assets/1dd221ea-adce-43e9-b2d9-c651ebf1a552" />
+
 
 ![Disney Style](images/disney.png)
 
@@ -38,7 +39,8 @@
 
 코와 눈, 입 등의 특징이 과장되게 표현될 수 있으며, 풍부한 표정과 생동감 있는 캐릭터 느낌을 구현합니다.
 
-**[픽사풍 변환 결과 사진을 여기에 넣으세요]**
+<img width="1672" height="941" alt="anime_studio_result (2)" src="https://github.com/user-attachments/assets/48ab8e19-3d47-4ccf-a46c-a9735ee3793d" />
+
 
 ![Pixar Style](images/pixar.png)
 
@@ -46,7 +48,8 @@
 
 깔끔한 선화와 선명한 색감, 한국 웹툰 특유의 캐릭터 표현을 적용한 스타일입니다.
 
-**[한국 웹툰풍 변환 결과 사진을 여기에 넣으세요]**
+<img width="1672" height="941" alt="anime_studio_result (3)" src="https://github.com/user-attachments/assets/8bcd7cc3-3aff-484f-ab5f-023c59a13018" />
+
 
 ![Korean Webtoon Style](images/webtoon.png)
 
