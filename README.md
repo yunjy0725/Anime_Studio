@@ -1,4 +1,3 @@
-<img width="1672" height="941" alt="anime_studio_result (2)" src="https://github.com/user-attachments/assets/c44c7d33-714c-4651-b2ba-2de6151406e6" />
 # 🎨 Anime Studio
 
 **AI-powered Anime Style Photo Converter**
