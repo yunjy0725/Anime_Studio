@@ -291,5 +291,5 @@ else:
 st.divider()
 
 st.caption(
-    "Anime Studio | Powered by OpenAI Image API"
+    "Anime Studio | Powered by OpenAI Image API."
 )
