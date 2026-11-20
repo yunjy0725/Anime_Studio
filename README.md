@@ -27,18 +27,19 @@
 
 부드러운 색감과 자연스러운 얼굴 표현을 중심으로 한 애니메이션 스타일입니다.
 
-<img width="1672" height="941" alt="anime_studio_result" src="https://github.com/user-attachments/assets/1dd221ea-adce-43e9-b2d9-c651ebf1a552" />
+<img width="1449" height="1085" alt="anime_studio_result (5)" src="https://github.com/user-attachments/assets/b777faab-c4cd-471c-93be-2676249c3516" />
 
 
 ![Disney Style](images/disney.png)
 
 ### 2. 픽사풍 (Pixar Style)
 
-입체적인 3D 애니메이션 표현과 개성 있는 얼굴 비율이 특징입니다.
+2. 픽사풍 (Pixar Style)
 
-코와 눈, 입 등의 특징이 과장되게 표현될 수 있으며, 풍부한 표정과 생동감 있는 캐릭터 느낌을 구현합니다.
+입체적인 3D 애니메이션 표현과 부드러운 질감, 생동감 있는 표정이 특징인 스타일입니다.
 
-<img width="1672" height="941" alt="anime_studio_result (2)" src="https://github.com/user-attachments/assets/48ab8e19-3d47-4ccf-a46c-a9735ee3793d" />
+자연스러운 얼굴 비율과 조화로운 이목구비를 유지하면서 크고 풍부한 눈, 따뜻한 미소, 섬세한 조명 효과를 통해 귀엽고 세련된 3D 캐릭터 느낌을 구현합니다.
+<img width="1672" height="941" alt="anime_studio_result (4)" src="https://github.com/user-attachments/assets/c92d6de7-694b-4e89-adb3-1b2cbea38d49" />
 
 
 ![Pixar Style](images/pixar.png)
